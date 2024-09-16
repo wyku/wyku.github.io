@@ -8,7 +8,7 @@ toc:  true
 
 **This is Assignment1.**
 
-## Reviewing class content
+## Reviewing class contents
 
 ### 4 steps of bioinformatics
 - Question
@@ -49,14 +49,18 @@ toc:  true
    - Algorithm: Once developed, it usually does not require frequent updates unless it's for performance optimization or to adapt to new computational needs.
    - Model: May need regular updates and maintenance to adapt to new data or environmental changes.
 
-## Study plan
+## Study plans
 
 ### Basic courses & skills
 - Further understanding of data structures and algorithms, especially the application of deep learning algorithms in bioinformatics.
-- Learing biological knowledge based on the needs of the research topic.
-- Reading more literature in the relevant fields and summarizing.
+- Learing biological knowledge based on the needs of research projects.
+- Reading more papers in the relevant fields and summarizing.
 
 ### Practice, communication and teaching
-following the Feynman Technique, do more practices, communicate with others and teach others.
+Following the Feynman Technique, do more practices, communicate with others and teach others.
+
+
+## Resources
+The markdown file is written using the “Markdown All in One” extension in VSCode, which can display both the original file and the preview file at the same time.
 
 
